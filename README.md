@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaniz Fatema Begum
 - 👀 I’m interested in software test automation
-- 🌱 I’m currently learning cypress and webdriverio
+- 🌱 I’m currently learning postman and webdriverio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
