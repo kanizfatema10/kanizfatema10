@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kaniz Fatema Begum
-- 👀 I’m interested in software test automation
-- 🌱 I’m currently learning postman and webdriverio
+- 👋 Hi, I’m Kaniz Fatema Begum a QA Engineer with 4.5 years of experience.
+- 👀 I’m interested in requirement engineering, quality assurance, and user experience
+- 🌱 I’m currently learning WebUI and API automation
 - 💞️ I’m looking for an opportunity to work on test automation
 - 📫 To reach me drop an email at the following address: knzkoly@gmail.com
 
