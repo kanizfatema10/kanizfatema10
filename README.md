@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kaniz Fatema Begum a QA Engineer with 4.5 years of experience.
+- 👋 Hi, I’m Kaniz Fatema Begum an ISTQB certified Test Automation Engineer with 5 years of experience.
 - 👀 I’m interested in requirement engineering, quality assurance, and user experience
 - 🌱 I’m currently learning WebUI and API automation
 - 💞️ I’m looking for an opportunity to work on test automation
